@@ -54,6 +54,13 @@ Integrate a database (MySQL / SQLite) for persistent storage
 Add support for multiple accounts
 Add mini-statement generation
 Log user activities for auditing
+Go into project directory:
+cd ATMPro
+Compile:
+javac *.java
+Run:
+java Main
+
 
 👨‍💻 About the Developer
 Sunandha Putlapudi
