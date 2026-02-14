@@ -1,5 +1,3 @@
-# ATMPro
-
 **ATMPro** is a Java-based simulation of an Automated Teller Machine (ATM) system.  
 This project demonstrates core banking operations such as checking balance, withdrawing funds, depositing, and transaction history — all through a console or GUI interface (adjust as appropriate).
 
